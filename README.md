@@ -1,8 +1,8 @@
-# AI·AI
+# AI_AI Project
 
 **Arcalive Information for AI**
 
-AI·AI는 아카라이브 게시글을 생성형 AI가 읽기 좋은 문서와 구조화된 데이터로 변환하는 Chrome 확장 프로그램입니다.
+AI_AI Project는 아카라이브 게시글을 생성형 AI가 읽기 좋은 문서와 구조화된 데이터로 변환하는 Chrome 확장 프로그램입니다.
 
 ## 목표
 
